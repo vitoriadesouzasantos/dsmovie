@@ -6,10 +6,10 @@ import { BASE_URL } from 'utils/requests';
 import './styles.css'
 
 type Props = {
-    movieId : string;
+    movieId: string;
 }
 
-export default function FormCard({ movieId } : Props) {
+export default function FormCard({ movieId }: Props) {
 
     const [movie, setMovie] = useState<Movie>();
 
@@ -19,7 +19,7 @@ export default function FormCard({ movieId } : Props) {
                 setMovie(response.data);
             })
     }, [movieId]);
-    
+
 
     return (
         <div className="dsmovie-form-container">
