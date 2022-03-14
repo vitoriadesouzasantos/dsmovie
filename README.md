@@ -4,7 +4,7 @@
  
  ## 💻 Projeto
 
-O projeto foi desenvolvido na **Semana Spring React SDS 7.0** da [DevSuperior](devsuperior.com.br). O DSMovie é um sistema de avaliação de filmes, onde você pode acessar e contribuir com a nota média de avaliação dos filmes disponíveis.
+O projeto foi desenvolvido na **Semana Spring React SDS 7.0** da [DevSuperior](https://devsuperior.com.br/cursos). O DSMovie é um sistema de avaliação de filmes, onde você pode acessar e contribuir com a nota média de avaliação dos filmes disponíveis.
 
 ## ⚙️ Como executar
 
